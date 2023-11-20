@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "977918928804",
+    "project_id": "acess4allpim",
+    "storage_bucket": "acess4allpim.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:977918928804:android:685971ed85d7f225370331",
+        "android_client_info": {
+          "package_name": "com.example.a4a"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCiNlBnns-010pztG5XJJuUgM0QZ0beLFk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
