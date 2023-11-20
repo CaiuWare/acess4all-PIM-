@@ -6,7 +6,7 @@
 
 Este projeto, intitulado **Access for All**, foi desenvolvido como parte do trabalho de conclusão de curso para a disciplina de [TOP ESPECIAL PROGRAMA ORIENTADO A OBJETOS] da [Universidade Paulista].
 
-[Link do video](https://drive.google.com/drive/folders/19EGXLYjMTktg-Gpjo0uXiHZ8Fl-i1Vli?usp=drive_link)
+[Download](https://drive.google.com/drive/folders/19EGXLYjMTktg-Gpjo0uXiHZ8Fl-i1Vli?usp=drive_link)
 ---
 
 ## Conteúdo
