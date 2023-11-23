@@ -9,7 +9,7 @@
     <RelativeLayout
         android:layout_width="match_parent"
         android:layout_height="match_parent"
-        android:background="@color/lavender"
+        android:background="#faf6eb"
         android:alpha="0.7"/>
 
     <LinearLayout
@@ -18,21 +18,8 @@
         android:orientation="vertical"
         android:gravity="center"
         android:layout_above="@id/card_view"
+        android:background="@drawable/logo"
         android:padding="28dp">
-
-        <ImageView
-            android:layout_width="88dp"
-            android:layout_height="93dp"
-            android:src="@drawable/baseline_wb_sunny_24" />
-
-        <TextView
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:text="ACCESS 4 ALL"
-            android:textStyle="bold"
-            android:fontFamily="sans-serif-medium"
-            android:textSize="32sp"
-            android:textColor="@color/white"/>
 
 
     </LinearLayout>
